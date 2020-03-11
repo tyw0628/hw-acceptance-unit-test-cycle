@@ -1,3 +1,4 @@
+
 require 'rails_helper'
 describe MoviesController do
   describe 'index_method' do
